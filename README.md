@@ -1,6 +1,8 @@
 # Building on Core 
 Welcome to the Building on Core tutorial through DcodeBlock! All the content over here is made with Harry Potter Theme
-Use CodeSpaces if you prefer to use a virtual coding environment instead of setting up Visual Studio Code on own computer
+
+
+`Use CodeSpaces if you prefer to use a virtual coding environment instead of setting up Visual Studio Code on own computer`
 
 ## Overview
 Contribute to this repository to engage with CoreDAO and use Core. If you require help to understand and use this repository go to :
